@@ -1,0 +1,15 @@
+{
+  "name": "kindle_to_notion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sole/kindle-clippings-parser": "^1.1.0",
+    "cli-select": "^1.1.2"
+  }
+}
